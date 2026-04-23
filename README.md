@@ -39,4 +39,11 @@ Senior Backend Developer based in Karachi, Pakistan with 6+ years of experience 
 
 ---
 
+#### 📊 GitHub Stats
+
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwan-backend&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-backend&layout=compact&theme=dark)
+
+---
 ⚡ *Most of my professional work has been in private client repositories. Public projects and open-source contributions are in progress — new backend projects coming soon!*

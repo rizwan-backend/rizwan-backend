@@ -1,67 +1,56 @@
-# 🏄‍♂️ Forrest Knight
+### 🚀 Muhammad Rizwan Qureshi
 
-**`Digital Craftsman`**
+`Senior Backend Developer`
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->692k<!--SUBS-END--> subscribers).
+I'm a senior backend developer with 6+ years of experience building scalable 
+web applications, APIs, and e-commerce systems. Based in Karachi, Pakistan.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-      <a href="https://x.com/ForrestPKnight">
-         <img alt="Follow on X" title="Follow me on X" src="https://raw.githubusercontent.com/ForrestKnight/ForrestKnight/master/.github/assets/x-follow-badge.svg"/></a>
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizwan-qureshi363)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://qureshiweb.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizwan@qureshiweb.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Rizwanqureshi09)
 
 ---
 
-### 🧰 Languages and Tools
+#### 🛠 Languages and Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TanStack](https://img.shields.io/badge/tanstack-%23EF4444.svg?style=for-the-badge&logo=reactquery&logoColor=white)
-![Convex](https://img.shields.io/badge/convex-%23F3694C.svg?style=for-the-badge&logo=convex&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#
+---
 
-### 📺 Latest YouTube Videos
+#### 💼 What I Build
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![So Claude Code's Source Code Was Just Leaked...](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "So Claude Code's Source Code Was Just Leaked...")](https://www.youtube.com/watch?v=ESwH-_xFS_M)
-[![AI Has Broken the Internet](https://ytcards.demolab.com/?id=44JBZwAsfJI&title=AI+Has+Broken+the+Internet&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 "AI Has Broken the Internet")](https://www.youtube.com/watch?v=44JBZwAsfJI)
-[![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
-[![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
-[![33 CLI Tools You Need to Try](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+CLI+Tools+You+Need+to+Try&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "33 CLI Tools You Need to Try")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
-[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
-<!-- END YOUTUBE-CARDS -->
+- **Custom Web Applications** - Scalable backends with Laravel, Node.js, and NestJS
+- **REST APIs** - Well-documented APIs with proper authentication and validation
+- **E-commerce Systems** - WordPress, WooCommerce, and OpenCart customizations
+- **Database Architecture** - PostgreSQL and MySQL schema design and optimization
+- **Third-party Integrations** - Payment gateways, CRMs, and shipping APIs
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+---
 
-<!--#
-// need to host my out stats
+#### 🌱 Currently
 
-### 📊 Stats
+- Working as Senior Backend Developer at Esco Logics
+- Experimenting with NestJS for modern API architecture
+- Open to consulting opportunities and freelance collaborations
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)-->
+---
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+#### 📊 GitHub Stats
 
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-[x]: https://x.com/forrestpknight
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwan-backend&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-backend&layout=compact&theme=tokyonight)
+
+---
+
+⚡ *Most of my professional work lives in private client repositories. Public projects and open-source contributions are actively growing — new backend projects coming soon!*
